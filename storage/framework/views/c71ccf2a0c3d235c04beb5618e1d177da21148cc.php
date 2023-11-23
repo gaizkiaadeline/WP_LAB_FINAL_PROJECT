@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\HP\Desktop\WebProgramming_LAB_Project\WebProgramming_LAB_Project\resources\views/layouts/navbar/navbarAdmin.blade.php ENDPATH**/ ?>
